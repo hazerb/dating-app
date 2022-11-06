@@ -1,0 +1,20 @@
+.MenuHeader {
+    min-width: 20vh;
+    max-height: 10vh;
+    background-color: #6a9e5b;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(20px + 2vmin);
+    color: rgb(243, 239, 239);
+}
+
+
+.barItem{
+    font-family: sans-serif;
+}
+
+.barItem:hover{
+    background-color:rgb(98, 165, 185);
+}

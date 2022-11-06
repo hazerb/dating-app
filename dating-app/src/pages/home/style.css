@@ -1,0 +1,15 @@
+.Home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+
+  .LikeButton:active{
+    background-color: rgb(224, 153, 153);
+  }
+
+  .DislikeButton:active{
+    background-color: rgb(179, 179, 212);
+  }
